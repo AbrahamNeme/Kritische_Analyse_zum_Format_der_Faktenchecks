@@ -1,0 +1,31 @@
+\documentclass[a4paper,listof=totoc,bibliography=totoc]{scrartcl}
+
+\usepackage[ngerman]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{natbib}
+
+\title{Thema des Aufsatzes}
+\author{Abraham Neme Alvarez, Autor 2, Autor 3}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Zusammenfassung}
+
+Eine kurze Zusammenfassung der Themen des Aufsatzes sowie der wesentlichen
+gewonnenen Erkenntnisse.
+
+\section{Einleitung}
+
+Eine Einleitung in das Thema und die Struktur der Arbeit. Dinge sollten
+unbedingt zitiert werden. Wenn eine Aussage zitiert wird, kann die Quelle
+am Ende stehen \cite{popper:2005}. Man kann jedoch auch schreiben
+,,\citet{feyerabend:1986} folgend definieren wir ....".
+
+\bibliography{essay}{}
+\bibliographystyle{apalike}
+
+\end{document}
