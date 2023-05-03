@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.4.12)  12 APR 2023 13:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.4.12)  3 MAY 2023 16:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/ab_ne/OneDrive/Desktop/Master_BHT/essay/essay.tex
-(c:/Users/ab_ne/OneDrive/Desktop/Master_BHT/essay/essay.tex
+**"c:/Users/ab_ne/OneDrive/Desktop/Master_BHT/2-Semester/Wissenschaftliches Arbeiten/essay/essay.tex"
+(c:/Users/ab_ne/OneDrive/Desktop/Master_BHT/2-Semester/Wissenschaftliches Arbeiten/essay/essay.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-03-30> (C:\Users\ab_ne\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrartcl.cls
 Document Class: scrartcl 2022/10/12 v3.38 KOMA-Script document class (article)
@@ -186,16 +186,16 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 {C:/Users/ab_ne/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (essay.aux) ) 
 Here is how much of TeX's memory you used:
  5091 strings out of 476326
- 108116 string characters out of 5787722
+ 108434 string characters out of 5787722
  1852660 words of memory out of 5000000
  25530 multiletter control sequences out of 15000+600000
  518820 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,7n,106p,10649b,271s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,7n,106p,10690b,271s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\ab_ne\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\ab_ne\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\ab_ne\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1440.pk> <C:\Users\ab_ne\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\ab_ne\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx2074.pk>
-Output written on essay.pdf (1 page, 48199 bytes).
+Output written on essay.pdf (1 page, 52949 bytes).
 PDF statistics:
- 154 PDF objects out of 1000 (max. 8388607)
+ 165 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

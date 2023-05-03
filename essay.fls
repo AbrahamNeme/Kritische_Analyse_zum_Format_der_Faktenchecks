@@ -1,6 +1,6 @@
-PWD c:\Users\ab_ne\OneDrive\Desktop\Master_BHT\essay
+PWD c:\Users\ab_ne\OneDrive\Desktop\Master_BHT\2-Semester\Wissenschaftliches Arbeiten\essay
 INPUT C:\Users\ab_ne\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\ab_ne\OneDrive\Desktop\Master_BHT\essay\essay.tex
+INPUT c:\Users\ab_ne\OneDrive\Desktop\Master_BHT\2-Semester\Wissenschaftliches Arbeiten\essay\essay.tex
 OUTPUT essay.log
 INPUT C:\Users\ab_ne\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrartcl.cls
 INPUT C:\Users\ab_ne\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrartcl.cls
