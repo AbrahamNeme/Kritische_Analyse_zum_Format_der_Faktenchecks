@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.4.12)  31 MAY 2023 15:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.4.12)  16 JUL 2023 19:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -183,19 +183,29 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 
-{C:/Users/ab_ne/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] (essay.bbl) [3] (essay.aux) ) 
+{C:/Users/ab_ne/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 62--81
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 99--111
+
+ []
+
+[3] [4] [5] [6] (essay.bbl) [7] (essay.aux) ) 
 Here is how much of TeX's memory you used:
- 5091 strings out of 476326
- 108434 string characters out of 5787722
- 1855660 words of memory out of 5000000
- 25530 multiletter control sequences out of 15000+600000
- 518820 words of font info for 43 fonts, out of 8000000 for 9000
+ 5113 strings out of 476326
+ 109031 string characters out of 5787722
+ 1862660 words of memory out of 5000000
+ 25550 multiletter control sequences out of 15000+600000
+ 519932 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,8n,106p,10690b,271s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\ab_ne\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\ab_ne\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\ab_ne\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1440.pk> <C:\Users\ab_ne\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\ab_ne\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx2074.pk>
-Output written on essay.pdf (3 pages, 77488 bytes).
+ <C:\Users\ab_ne\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\ab_ne\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\ab_ne\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1200.pk> <C:\Users\ab_ne\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\ab_ne\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1440.pk> <C:\Users\ab_ne\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\ab_ne\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx2074.pk>
+Output written on essay.pdf (7 pages, 110286 bytes).
 PDF statistics:
- 230 PDF objects out of 1000 (max. 8388607)
+ 306 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
