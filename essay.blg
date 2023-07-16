@@ -1,48 +1,46 @@
-This is BibTeX, Version 0.99d
+This is BibTeX, Version 0.99d (TeX Live 2023)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: essay.aux
-Reallocating 'name_of_file' (item size: 1) to 6 items.
-Reallocating 'name_of_file' (item size: 1) to 8 items.
 The style file: apalike.bst
 Database file #1: essay.bib
-You've used 3 entries,
+You've used 18 entries,
             1935 wiz_defined-function locations,
-            486 strings with 4146 characters,
-and the built_in function-call counts, 1068 in all, are:
-= -- 93
-> -- 62
-< -- 2
-+ -- 24
-- -- 22
-* -- 83
-:= -- 206
-add.period$ -- 9
-call.type$ -- 3
-change.case$ -- 24
-chr.to.int$ -- 3
-cite$ -- 3
-duplicate$ -- 38
-empty$ -- 62
-format.name$ -- 25
-if$ -- 195
+            580 strings with 6615 characters,
+and the built_in function-call counts, 6799 in all, are:
+= -- 652
+> -- 303
+< -- 11
++ -- 112
+- -- 102
+* -- 583
+:= -- 1214
+add.period$ -- 52
+call.type$ -- 18
+change.case$ -- 136
+chr.to.int$ -- 18
+cite$ -- 18
+duplicate$ -- 244
+empty$ -- 460
+format.name$ -- 130
+if$ -- 1290
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 4
-newline$ -- 18
-num.names$ -- 9
-pop$ -- 28
+missing$ -- 20
+newline$ -- 91
+num.names$ -- 54
+pop$ -- 128
 preamble$ -- 1
-purify$ -- 26
+purify$ -- 141
 quote$ -- 0
-skip$ -- 29
+skip$ -- 179
 stack$ -- 0
-substring$ -- 38
-swap$ -- 2
+substring$ -- 451
+swap$ -- 15
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 14
+type$ -- 98
 warning$ -- 0
-while$ -- 6
+while$ -- 54
 width$ -- 0
-write$ -- 38
+write$ -- 223
