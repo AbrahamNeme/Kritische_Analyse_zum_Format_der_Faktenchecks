@@ -12,14 +12,12 @@ Allcott, H. and Gentzkow, M. (2017).
 
 \bibitem[Amazeen, 2018]{amazeen2018}
 Amazeen, M. (2018).
-\newblock Checking the fact-checkers in 2008: Predicting political ad scrutiny
-  and assessing consistency.
+\newblock Checking the fact-checkers in 2008: Predicting political ad scrutiny and assessing consistency.
 \newblock {\em Journal of Political Marketing}, 17(2):70--93.
 
 \bibitem[Benz and Brinkmann, 2017]{benz2017}
 Benz, J. and Brinkmann, H. (2017).
-\newblock {\em Faktencheck und Wahrheitssuche: Einblicke in die Welt der
-  Wissenschaft und der Medien}.
+\newblock {\em Faktencheck und Wahrheitssuche: Einblicke in die Welt der Wissenschaft und der Medien}.
 \newblock Springer.
 
 \bibitem[CHECK et~al., 2019]{FullFact:2019}
@@ -32,10 +30,8 @@ Dobbs, M. (2007).
 \newblock The fact checker.
 
 \bibitem[Fengler et~al., 2015]{fengler2015}
-Fengler, S., Eberwein, T., Leppik-Bork, T., Lönnendonker, J., and Pies, J.
-  (2015).
-\newblock {\em Journalists and Media Accountability: An International Study of
-  News People in the Digital Age}.
+Fengler, S., Eberwein, T., Leppik-Bork, T., Lönnendonker, J., and Pies, J. (2015).
+\newblock {\em Journalists and Media Accountability: An International Study of News People in the Digital Age}.
 \newblock Peter Lang.
 
 \bibitem[Fung et~al., 2012]{Fung2012}
@@ -49,41 +45,43 @@ Funke, D. (2019).
 
 \bibitem[Graves, 2016]{graves2016}
 Graves, L. (2016).
-\newblock {\em Deciding What's True: The Art of Fact-Checking in the Digital
-  Age}.
+\newblock {\em Deciding What's True: The Art of Fact-Checking in the Digital Age}.
 \newblock Columbia University Press.
 
-\bibitem[Graves, 2018]{graves2018}
-Graves, L. (2018).
-\newblock {\em Deciding What's True: Fact-Checking Journalism and the New
-  Ecology of News}.
+\bibitem[Graves, 2018a]{graves2018}
+Graves, L. (2018a).
+\newblock {\em Deciding What's True: Fact-Checking Journalism and the New Ecology of News}.
 \newblock Columbia University Press.
+
+\bibitem[Graves, 2018b]{graves2018b}
+Graves, L. (2018b).
+\newblock Understanding the promise and limits of automated fact-checking.
+\newblock {\em Factsheet, Reuters Institute}.
 
 \bibitem[Hassan et~al., 2015]{Hassan2015}
-Hassan, N., Adair, B., Hamilton, J., Li, C., Tremayne, M., Yang, J., and Yu, C.
-  (2015).
+Hassan, N., Adair, B., Hamilton, J., Li, C., Tremayne, M., Yang, J., and Yu, C. (2015).
 \newblock The quest to automate fact-checking.
 \newblock In {\em Proceedings of the 2015 Computation + Journalism Symposium}.
 
 \bibitem[Humprecht and Esser, 2020]{humprecht2020}
 Humprecht, E. and Esser, F. (2020).
-\newblock Resilience to online disinformation: A framework for cross-national
-  comparative research.
+\newblock Resilience to online disinformation: A framework for cross-national comparative research.
 \newblock {\em The International Journal of Press/Politics}, 25(2):493--516.
 
 \bibitem[K.~H.~Ecker et~al., 2022]{K.H.Ecker:2022}
-K.~H.~Ecker, U., Lewandowsky, S., Cook, J., Schmid, P., K.~Fazio, L., Brashier,
-  N., Kendeou, P., K.~Vraga, E., and A.~Amazeen, M. (2022).
-\newblock The psychological drivers of misinformation belief and its resistance
-  to correction.
+K.~H.~Ecker, U., Lewandowsky, S., Cook, J., Schmid, P., K.~Fazio, L., Brashier, N., Kendeou, P., K.~Vraga, E., and A.~Amazeen, M. (2022).
+\newblock The psychological drivers of misinformation belief and its resistance to correction.
 \newblock Nature Reviews Psychology.
 
 \bibitem[Lewandowsky et~al., 2020]{lewandowsky2020}
 Lewandowsky, S., Ecker, U.~K., and Cook, J. (2020).
-\newblock Beyond misinformation: Understanding and coping with the
-  “post-truth” era.
-\newblock {\em Journal of Applied Research in Memory and Cognition},
-  9(4):353--369.
+\newblock Beyond misinformation: Understanding and coping with the “post-truth” era.
+\newblock {\em Journal of Applied Research in Memory and Cognition}, 9(4):353--369.
+
+\bibitem[Mantzarlis, 2018]{mantzarlis2018}
+Mantzarlis, A. (2018).
+\newblock The rise of fact-checking sites in europe.
+\newblock {\em Poynter Institute}.
 
 \bibitem[Nyhan and Reifler, 2010]{nyhan2010}
 Nyhan, B. and Reifler, J. (2010).
@@ -92,20 +90,27 @@ Nyhan, B. and Reifler, J. (2010).
 
 \bibitem[Pennycook and Rand, 2020]{Pennycook2020}
 Pennycook, G. and Rand, D.~G. (2020).
-\newblock Fighting misinformation on social media using crowdsourced judgments
-  of news source quality.
-\newblock {\em Proceedings of the National Academy of Sciences},
-  117(6):2775--2783.
+\newblock Fighting misinformation on social media using crowdsourced judgments of news source quality.
+\newblock {\em Proceedings of the National Academy of Sciences}, 117(6):2775--2783.
+
+\bibitem[Silverman, 2009]{silverman2009}
+Silverman, C. (2009).
+\newblock The role of fact-checking in newsrooms.
+\newblock {\em Columbia Journalism Review}.
 
 \bibitem[Vinck et~al., 2019]{vinck2019}
 Vinck, P., Pham, P.~N., Bindu, K.~K., Bedford, J., and Nilles, E.~J. (2019).
-\newblock Institutional trust and misinformation in the response to the
-  2018-2019 ebola outbreak in north kivu, dr congo: a population-based survey.
+\newblock Institutional trust and misinformation in the response to the 2018-2019 ebola outbreak in north kivu, dr congo: a population-based survey.
 \newblock {\em The Lancet Infectious Diseases}, 19(5):529--536.
 
 \bibitem[Vosoughi et~al., 2018]{Vosoughi2018}
 Vosoughi, S., Roy, D., and Aral, S. (2018).
 \newblock The spread of true and false news online.
 \newblock {\em Science}, 359(6380):1146--1151.
+
+\bibitem[Wardle and Derakhshan, 2017]{wardle2017}
+Wardle, C. and Derakhshan, H. (2017).
+\newblock Information disorder: Towards an interdisciplinary framework for research and policy making.
+\newblock {\em Council of Europe Report}.
 
 \end{thebibliography}

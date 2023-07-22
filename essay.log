@@ -1,43 +1,43 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.4.12)  19 JUL 2023 22:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.10)  22 JUL 2023 22:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/ab_ne/OneDrive/Desktop/Master_BHT/2-Semester/Wissenschaftliches Arbeiten/essay/essay.tex"
-(c:/Users/ab_ne/OneDrive/Desktop/Master_BHT/2-Semester/Wissenschaftliches Arbeiten/essay/essay.tex
+**/Users/hannes/Documents/GitHub/essay/essay.tex
+(/Users/hannes/Documents/GitHub/essay/essay.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-03-30> (C:\Users\ab_ne\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrartcl.cls
-Document Class: scrartcl 2022/10/12 v3.38 KOMA-Script document class (article)
-(C:\Users\ab_ne\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrkbase.sty
-Package: scrkbase 2022/10/12 v3.38 KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
- (C:\Users\ab_ne\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrbase.sty
-Package: scrbase 2022/10/12 v3.38 KOMA-Script package (KOMA-Script-independent basics and keyval usage)
- (C:\Users\ab_ne\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.sty
-Package: scrlfile 2022/10/12 v3.38 KOMA-Script package (file load hooks)
- (C:\Users\ab_ne\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-hook.sty
-Package: scrlfile-hook 2022/10/12 v3.38 KOMA-Script package (using LaTeX hooks)
- (C:\Users\ab_ne\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
-Package: scrlogo 2022/10/12 v3.38 KOMA-Script package (logo)
-))) (C:\Users\ab_ne\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+L3 programming layer <2023-05-05> (/usr/local/texlive/2023/texmf-dist/tex/latex/koma-script/scrartcl.cls
+Document Class: scrartcl 2023/04/24 v3.40 KOMA-Script document class (article)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2023/04/24 v3.40 KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2023/04/24 v3.40 KOMA-Script package (KOMA-Script-independent basics and keyval usage)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2023/04/24 v3.40 KOMA-Script package (file load hooks)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2023/04/24 v3.40 KOMA-Script package (using LaTeX hooks)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2023/04/24 v3.40 KOMA-Script package (logo)
+))) (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
 Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
 Already applied: [0000/00/00] Usage of raw or classic option list on input line 368.
-)) (C:\Users\ab_ne\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\tocbasic.sty
-Package: tocbasic 2022/10/12 v3.38 KOMA-Script package (handling toc-files)
+)) (/usr/local/texlive/2023/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2023/04/24 v3.40 KOMA-Script package (handling toc-files)
 \scr@dte@tocline@numberwidth=\skip48
 \scr@dte@tocline@numbox=\box51
 )
 Package tocbasic Info: omitting babel extension for `toc'
 (tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `toc' on input line 135.
+(tocbasic)             for `toc' on input line 133.
 Class scrartcl Info: File `scrsize11pt.clo' used instead of
-(scrartcl)           file `scrsize11.clo' to setup font sizes on input line 2367.
- (C:\Users\ab_ne\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrsize11pt.clo
-File: scrsize11pt.clo 2022/10/12 v3.38 KOMA-Script font size class option (11pt)
-) (C:\Users\ab_ne\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\typearea.sty
-Package: typearea 2022/10/12 v3.38 KOMA-Script package (type area)
+(scrartcl)           file `scrsize11.clo' to setup font sizes on input line 2418.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
+File: scrsize11pt.clo 2023/04/24 v3.40 KOMA-Script font size class option (11pt)
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/koma-script/typearea.sty
+Package: typearea 2023/04/24 v3.40 KOMA-Script package (type area)
 \ta@bcor=\skip49
 \ta@div=\count185
 Package typearea Info: You've used standard option `a4paper'.
@@ -66,7 +66,7 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              \topskip        = 11.0pt
 (typearea)              \footskip       = 47.6pt
 (typearea)              \baselineskip   = 13.6pt
-(typearea)              on input line 1767.
+(typearea)              on input line 1798.
 )
 \c@part=\count186
 \c@section=\count187
@@ -76,86 +76,80 @@ Package typearea Info: These are the values describing the layout:
 \c@subparagraph=\count191
 \scr@dte@section@maxnumwidth=\skip54
 Class scrartcl Info: using compatibility default `runin=bysign'
-(scrartcl)           for `\section on input line 4994.
+(scrartcl)           for `\section on input line 5046.
 Class scrartcl Info: using compatibility default `afterindent=bysign'
-(scrartcl)           for `\section on input line 4994.
+(scrartcl)           for `\section on input line 5046.
 \scr@dte@part@maxnumwidth=\skip55
 Class scrartcl Info: using compatibility default `afterindent=false'
-(scrartcl)           for `\part on input line 5002.
+(scrartcl)           for `\part on input line 5054.
 \scr@dte@subsection@maxnumwidth=\skip56
 Class scrartcl Info: using compatibility default `runin=bysign'
-(scrartcl)           for `\subsection on input line 5012.
+(scrartcl)           for `\subsection on input line 5064.
 Class scrartcl Info: using compatibility default `afterindent=bysign'
-(scrartcl)           for `\subsection on input line 5012.
+(scrartcl)           for `\subsection on input line 5064.
 \scr@dte@subsubsection@maxnumwidth=\skip57
 Class scrartcl Info: using compatibility default `runin=bysign'
-(scrartcl)           for `\subsubsection on input line 5022.
+(scrartcl)           for `\subsubsection on input line 5074.
 Class scrartcl Info: using compatibility default `afterindent=bysign'
-(scrartcl)           for `\subsubsection on input line 5022.
+(scrartcl)           for `\subsubsection on input line 5074.
 \scr@dte@paragraph@maxnumwidth=\skip58
 Class scrartcl Info: using compatibility default `runin=bysign'
-(scrartcl)           for `\paragraph on input line 5033.
+(scrartcl)           for `\paragraph on input line 5085.
 Class scrartcl Info: using compatibility default `afterindent=bysign'
-(scrartcl)           for `\paragraph on input line 5033.
+(scrartcl)           for `\paragraph on input line 5085.
 \scr@dte@subparagraph@maxnumwidth=\skip59
 Class scrartcl Info: using compatibility default `runin=bysign'
-(scrartcl)           for `\subparagraph on input line 5043.
+(scrartcl)           for `\subparagraph on input line 5095.
 Class scrartcl Info: using compatibility default `afterindent=bysign'
-(scrartcl)           for `\subparagraph on input line 5043.
+(scrartcl)           for `\subparagraph on input line 5095.
 \abovecaptionskip=\skip60
 \belowcaptionskip=\skip61
 \c@pti@nb@sid@b@x=\box52
 Package tocbasic Info: omitting babel extension for `lof'
 (tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `lof' on input line 6211.
+(tocbasic)             for `lof' on input line 6263.
 \scr@dte@figure@maxnumwidth=\skip62
 \c@figure=\count192
 Package tocbasic Info: omitting babel extension for `lot'
 (tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `lot' on input line 6227.
+(tocbasic)             for `lot' on input line 6279.
 \scr@dte@table@maxnumwidth=\skip63
 \c@table=\count193
-Class scrartcl Info: Redefining `\numberline' on input line 6397.
+Class scrartcl Info: Redefining `\numberline' on input line 6449.
 \bibindent=\dimen140
-) (C:\Users\ab_ne\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2023/03/28 3.87 The Babel package
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2023/04/18 3.88 The Babel package
 \babel@savecnt=\count194
 \U@D=\dimen141
-\l@unhyphenated=\language79
- (C:\Users\ab_ne\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\l@unhyphenated=\language87
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count195
-
-*************************************
-* Local config file bblopts.cfg used
-*
-(C:\Users\ab_ne\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
-) (C:\Users\ab_ne\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ngerman.ldf
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/babel-german/ngerman.ldf
 Language: ngerman 2021/02/27 v2.13 German support for babel (post-1996 orthography)
- (C:\Users\ab_ne\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ngermanb.ldf
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/babel-german/ngermanb.ldf
 Language: ngermanb 2021/02/27 v2.13 German support for babel (post-1996 orthography)
 Package babel Info: Making " an active character on input line 122.
-))) (C:\Users\ab_ne\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/de\babel-ngerman.tex
+))) (/usr/local/texlive/2023/texmf-dist/tex/generic/babel/locale/de/babel-ngerman.tex
 Package babel Info: Importing font and identification data for ngerman
 (babel)             from babel-de.ini. Reported on input line 11.
-) (C:\Users\ab_ne\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
-) (C:\Users\ab_ne\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-) (C:\Users\ab_ne\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip64
 \bibsep=\skip65
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count196
-) (C:\Users\ab_ne\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count197
 \l__pdf_internal_box=\box53
-) (essay.aux)
+) (./essay.aux)
 \openout1 = `essay.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -173,7 +167,7 @@ LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Trying to load font information for T1+cmss on input line 15.
- (C:\Users\ab_ne\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmss.fd
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -183,74 +177,130 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 
-{C:/Users/ab_ne/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3]
-Overfull \hbox (34.6828pt too wide) in paragraph at lines 156--157
-\T1/cmr/m/n/10.95 Transparenz, Re-chen-schafts-pflicht und Neu-tra-li-tät sind we-sent-li-che Ele-men-te im Faktenchecking-
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}] [2]
+Underfull \hbox (badness 10000) in paragraph at lines 137--150
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 153--166
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--181
+
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 167--186
+Underfull \hbox (badness 10000) in paragraph at lines 199--210
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--232
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--232
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--232
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 204--216
+Underfull \hbox (badness 10000) in paragraph at lines 237--276
 
  []
 
-[6] [7] [8]
-Underfull \hbox (badness 10000) in paragraph at lines 271--277
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--276
+
+ []
+
+[6] [7]
+Underfull \hbox (badness 10000) in paragraph at lines 279--303
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 306--323
 
  []
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 292--300
+Underfull \hbox (badness 10000) in paragraph at lines 352--375
 
  []
 
-[10]
-Underfull \hbox (badness 10000) in paragraph at lines 301--312
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--375
 
  []
 
-[11]
-Underfull \hbox (badness 10000) in paragraph at lines 322--333
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--375
 
  []
 
-[12]
-Underfull \hbox (badness 10000) in paragraph at lines 347--361
+[10{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+Underfull \hbox (badness 10000) in paragraph at lines 378--410
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 378--410
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 378--410
+
+ []
+
+[11] [12]
+Underfull \hbox (badness 10000) in paragraph at lines 413--434
 
  []
 
 [13]
-Underfull \hbox (badness 10000) in paragraph at lines 372--378
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 379--385
+Underfull \hbox (badness 10000) in paragraph at lines 439--462
 
  []
 
 [14]
-Underfull \hbox (badness 10000) in paragraph at lines 395--410
+Underfull \hbox (badness 10000) in paragraph at lines 465--487
 
  []
 
-[15] [16] (essay.bbl [17]) [18] (essay.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--487
+
+ []
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 490--526
+
+ []
+
+[16] [17] (./essay.bbl [18]) [19] (./essay.aux) ) 
 Here is how much of TeX's memory you used:
- 5164 strings out of 476326
- 109945 string characters out of 5787722
- 1863660 words of memory out of 5000000
- 25601 multiletter control sequences out of 15000+600000
+ 5193 strings out of 476047
+ 109687 string characters out of 5790247
+ 1865248 words of memory out of 5000000
+ 25625 multiletter control sequences out of 15000+600000
  519932 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,7n,106p,10690b,319s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\ab_ne\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\ab_ne\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\ab_ne\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1200.pk> <C:\Users\ab_ne\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\ab_ne\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1440.pk> <C:\Users\ab_ne\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\ab_ne\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx2074.pk>
-Output written on essay.pdf (18 pages, 157992 bytes).
+ 108i,7n,106p,10937b,319s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfsx2074.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb>
+Output written on essay.pdf (19 pages, 195224 bytes).
 PDF statistics:
- 388 PDF objects out of 1000 (max. 8388607)
+ 101 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
