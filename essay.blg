@@ -1,11 +1,13 @@
-This is BibTeX, Version 0.99d (TeX Live 2023)
+This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: essay.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+Reallocating 'name_of_file' (item size: 1) to 8 items.
 The style file: apalike.bst
 Database file #1: essay.bib
 You've used 23 entries,
             1935 wiz_defined-function locations,
-            602 strings with 7210 characters,
+            602 strings with 7208 characters,
 and the built_in function-call counts, 8239 in all, are:
 = -- 791
 > -- 355
